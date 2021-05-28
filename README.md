@@ -1,6 +1,6 @@
 # test
 
-| Syntax | Description |
-| Header | Title |
+|             | Description |
 | ----------- | ----------- |
-| Paragraph | Text | 
+| Birthday    | 15 december 1987|
+| Gender      | Female | 
