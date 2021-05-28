@@ -6,4 +6,4 @@
 | Gender      | Female | 
 | Favorite color | Blue | 
 | Favorite food  | Pancakes | 
-| Pinneapple  [ ] | or | pizza [x]| 
+| Pinneapple  [ ] or pizza [x]| 
