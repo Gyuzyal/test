@@ -1,9 +1,3 @@
 # test
 
-|             | Description |
-| ----------- | ----------- |
-| Birthday    | 15 december 1987|
-| Gender      | Female | 
-| Favorite color | Blue | 
-| Favorite food  | Pancakes | 
-| Pinneapple  [ ] | pizza [x]| 
+<< [title](https://www.example.com) || [Gyuzyal](https://www.example.com) || [title](https://www.example.com) >>
